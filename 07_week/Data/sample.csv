@@ -1,5 +1,4 @@
-,0,1,2
-0,Name,Age,Occupation
-1,Alice,30,Engineer
-2,Bob,25,Designer
-3,Charlie,35,Teacher
+Name,Age,Occupation
+Alice,30,Engineer
+Bob,25,Designer
+Charlie,35,Teacher
